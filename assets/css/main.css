@@ -1177,6 +1177,7 @@ section,
 
 .menu .menu-img {
   width: 150px;
+  height: 150px;
   border-radius: 50%;
   float: left;
   border: 8px solid color-mix(in srgb, var(--default-color), transparent 90%);
